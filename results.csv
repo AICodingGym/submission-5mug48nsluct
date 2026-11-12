@@ -1,0 +1,3 @@
+timestamp,experiment,val_insp_mae,runtime_s,device,notes
+2026-11-11T19:20:46,groupmedian_RC_step,6.10536,0.3,cpu,"median pressure per (R,C,step)"
+2026-11-11T19:25:45,lgbm_v1,0.62230,289.4,"cpu (M4, 10 threads)","L1 obj, insp-only train, 19 feats, best_iter=3000"
